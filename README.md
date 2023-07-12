@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
 <h3 align="center">A budding developer in Python.</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/wed-developer-programmer-coding-augmented-reality-screen-premium-vector_375605-332.jpg">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigisha15&label=Profile%20views&color=0e75b6&style=flat" alt="jigisha15" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigisha15" alt="jigisha15" /></a> </p>
-
+-->
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-jigisha15.vercel.app/](https://portfolio-jigisha15.vercel.app/)
