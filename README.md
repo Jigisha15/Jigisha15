@@ -1,5 +1,13 @@
-<h1 align='center'>Hello Guys! I am Jigisha Ghanekar</h1>
+<h1 class='heading' align='center'>Hello Guys! I am Jigisha Ghanekar</h1>
 <h2 align='center'>I am a budding developer in Python</h2> 
+
+<h2 align='center' >Here are my social media links</h2>
+<p><a href='https://www.linkedin.com/in/jigisha-ghanekar/' target='_blank'>LinkedIn</a></p>
+<p><a href='https://www.instagram.com/jigisha4_/' target='_blank'>Instagram</a></p>
+<p><a href='https://www.facebook.com/profile.php?id=100079070826837' target='_blank'>Facebook</a></p>
+
+
+
 
 <!--
 <h1 align="center">Hi 👋, I'm Jigisha</h1>
