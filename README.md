@@ -63,4 +63,8 @@
   <li><a href="https://www.linkedin.com/in/jigisha-ghanekar/" target="_blank">LinkedIn</a></li>
   <li><a href="https://www.instagram.com/jigisha4_/" target="_blank">Instagram</a></li>
   <li><a href="https://www.facebook.com/profile.php?id=100079070826837" target="_blank">Facebook</a></li>
-</ul>
+</ul> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigisha15&show_icons=true&locale=en&layout=compact" alt="jigisha15" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigisha15&show_icons=true&locale=en" alt="jigisha15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigisha15&" alt="jigisha15" /></p>
