@@ -51,7 +51,16 @@
 
 <h1 align="center">Hello , I am Jigisha Ghanekar</h1>
 <p align="center">I am a 3rd year CS undergrad exploring Web Development.</p>
+<p>More about me</p>
 <ul>
   <li>I am inclined towards Python</li>
   <li>Looking forward to grow my roots in Machine Learning</li>
+  <li>ask me about Python, Django, React</li>
+</ul>
+
+<p>Connect with me on...</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/jigisha-ghanekar/">LinkedIn</a></li>
+  <li><a href="https://www.instagram.com/jigisha4_/">Instagram</a></li>
+  <li><a href="https://www.facebook.com/profile.php?id=100079070826837">Facebook</a></li>
 </ul>
