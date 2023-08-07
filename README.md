@@ -67,5 +67,5 @@
   <li><a href="https://www.facebook.com/profile.php?id=100079070826837" target="_blank">Facebook</a></li>
 </ul> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jigisha15&show_icons=true&locale=en" alt="jigisha15" /></p>
+<p><img align="left" display="flex" src="https://github-readme-stats.vercel.app/api?username=jigisha15&show_icons=true&locale=en" alt="jigisha15" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jigisha15&" alt="jigisha15" /></p>
