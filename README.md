@@ -60,7 +60,7 @@
 
 <p>Connect with me on...</p>
 <ul>
-  <li><a href="https://www.linkedin.com/in/jigisha-ghanekar/">LinkedIn</a></li>
-  <li><a href="https://www.instagram.com/jigisha4_/">Instagram</a></li>
-  <li><a href="https://www.facebook.com/profile.php?id=100079070826837">Facebook</a></li>
+  <li><a href="https://www.linkedin.com/in/jigisha-ghanekar/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.instagram.com/jigisha4_/" target="_blank">Instagram</a></li>
+  <li><a href="https://www.facebook.com/profile.php?id=100079070826837" target="_blank">Facebook</a></li>
 </ul>
