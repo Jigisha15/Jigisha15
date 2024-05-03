@@ -51,7 +51,7 @@
 
 <h1 align="center">Hello , I am Jigisha Ghanekar</h1>
 <p align="center">I am a 3rd year CS undergrad exploring Web Development.</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigisha15&show_icons=true&locale=en&layout=compact" alt="jigisha15" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigisha15&show_icons=true&locale=en&layout=compact" alt="jigisha15" /></p>
 
 **<p>More about me</p>**
 <ul>
