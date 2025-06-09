@@ -1,25 +1,54 @@
-<h1 align="center">Hi 👋, I'm Jigisha Ghanekar</h1>
-<h4 align="center">A Full Stack Developer.</h4>
+# Hi there, I'm Jigisha!  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="👋" width="50" height="40">
 
-<p align="left" style="margin-right: 3px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jigisha15" alt="jigisha15" /></a> </p>
+> I'm an emerging developer with an interest in bringing intelligent solutions to life. My journey is all about learning, building, and exploring the fascinating world of technology.
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jigisha15.vercel.app/](https://portfolio-jigisha15.vercel.app/)
+### What I Do
 
-- 💬 Ask me about **Django, Flask, React**
+* Your go-to for **Django, Flask, React, Next.js, Nest.js**
+* Pioneering solutions in **Machine Learning.**
 
-- 📫 How to reach me **jigishamanohar18@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jigisha-ghanekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jigisha-ghanekar/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079070826837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079070826837" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jigisha4_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jigisha4_/" height="30" width="40" /></a>
-</p>
+### My Toolkit 🛠️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigisha15&show_icons=true&locale=en&layout=compact" alt="jigisha15" /></p>
+Here are some of the technologies I love to work with:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigisha15&show_icons=true&locale=en" alt="jigisha15" /></p>
+| CATEGORY | TECHNOLOGIES |
+| ------ | ------ |
+| Languages | `Python` `JavaScript` `Java` `C++` `SQL` |
+| Web Frameworks | `Django` `Flask` `React` `Next.js` `Nest.js` |
+| Machine Learning | `Pandas` `NumPy` `Matplotlib` |
+| Databases | `PostgreSQL` `SQLite` |
+| Deployment | `Vercel` |
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jigisha15&" alt="jigisha15" /></p>
+---
+
+### My Projects <img src="https://cdn-icons-png.flaticon.com/512/5610/5610074.png" alt="✨" width="25" height="27" >
+
+Dive into my work and see how I transform ideas into functional applications.
+
+**Explore more about me here:** [https://portfolio-jigisha15.vercel.app/](https://portfolio-jigisha15.vercel.app/)
+
+---
+
+### Let's Connect! 💬
+
+I'm always open to discussing new ideas, collaborations, or just chatting about tech.
+
+* **Email:** <a href="mailto:jigishamanohar18@gmail.com" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="15" width="17" /></a>
+* **LinkedIn:**  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jigisha-ghanekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/jigisha-ghanekar/" height="15" width="15" /></a>
+* **Facebook:** <a href="https://fb.com/https://www.facebook.com/profile.php?id=100079070826837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"     alt="https://www.facebook.com/profile.php?id=100079070826837" height="15" width="15" /></a>
+* **Instagram:** <a href="https://instagram.com/https://www.instagram.com/jigisha4_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jigisha4_/" height="15" width="15" /></a>
+
+
+---
+
+### GitHub Stats 📊
+
+<!-- Feel free to check out my GitHub activity and contributions! -->
+<!-- ![Jigisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jigisha15&show_icons=true&theme=radical&hide_border=true&count_private=true) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigisha15&layout=compact&theme=radical&hide_border=true)
+
+---
