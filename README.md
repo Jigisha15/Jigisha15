@@ -38,9 +38,9 @@ Dive into my work and see how I transform ideas into functional applications.
 I'm always open to discussing new ideas, collaborations, or just chatting about tech.
 
 * **Email:** <a href="mailto:jigishamanohar18@gmail.com" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" height="15" width="17" /></a>
-* **LinkedIn:**  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jigisha-ghanekar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/jigisha-ghanekar/" height="15" width="15" /></a>
-* **Facebook:** <a href="https://fb.com/https://www.facebook.com/profile.php?id=100079070826837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"     alt="https://www.facebook.com/profile.php?id=100079070826837" height="15" width="15" /></a>
-* **Instagram:** <a href="https://instagram.com/https://www.instagram.com/jigisha4_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jigisha4_/" height="15" width="15" /></a>
+* **LinkedIn:**  <a href="https://www.linkedin.com/in/jigisha-ghanekar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="https://www.linkedin.com/in/jigisha-ghanekar/" height="15" width="15" /></a>
+* **Facebook:** <a href="https://www.facebook.com/profile.php?id=100079070826837" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"     alt="https://www.facebook.com/profile.php?id=100079070826837" height="15" width="15" /></a>
+* **Instagram:** <a href="https://www.instagram.com/jigisha4_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jigisha4_/" height="15" width="15" /></a>
 
 
 ---
