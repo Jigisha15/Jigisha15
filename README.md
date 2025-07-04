@@ -17,11 +17,12 @@ Here are some of the technologies I love to work with:
 
 | CATEGORY | TECHNOLOGIES |
 | ------ | ------ |
-| Languages | `Python` `JavaScript` `Java` `C++` `SQL` |
+| Languages | `Python` `JavaScript` `TypeScript` `Java` `C++` `SQL` |
 | Web Frameworks | `Django` `Flask` `React` `Next.js` `Nest.js` |
 | Machine Learning | `Pandas` `NumPy` `Matplotlib` |
 | Databases | `PostgreSQL` `SQLite` |
 | Deployment | `Vercel` |
+| ORM | `Prisma` `TypeORM`|
 
 ---
 
